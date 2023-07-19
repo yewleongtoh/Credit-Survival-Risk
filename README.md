@@ -1,5 +1,7 @@
 # Credit-Survival-Risk
 [![Survival Analysis](https://img.shields.io/badge/Advance%20Analytic-Survival%20Analysis-blue)](https://scikit-survival.readthedocs.io/en/stable/)
+[![Scikit Survival](https://img.shields.io/badge/sksurv-green)](https://pypi.org/project/scikit-survival/)
+[![Finance](https://img.shields.io/badge/Machine%20Learning-Finance%20-green)]()
 
 Credit-Survival-Risk is a project aimed at building a credit risk analytic model using the statistical method of Survival Analysis. Survival analysis is a popular analytical methodology used to investigate the expected duration of time until an event of interest occurs.
 
