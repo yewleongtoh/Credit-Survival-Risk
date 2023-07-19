@@ -1,9 +1,9 @@
 # Credit-Survival-Risk
 [![Survival Analysis](https://img.shields.io/badge/Advance%20Analytic-Survival%20Analysis-blue)](https://scikit-survival.readthedocs.io/en/stable/)
 [![Scikit Survival](https://img.shields.io/badge/sksurv-green)](https://pypi.org/project/scikit-survival/)
-[![Finance](https://img.shields.io/badge/Machine%20Learning-Finance%20-green)]()
+[![Finance](https://img.shields.io/badge/Machine%20Learning-Finance%20-8A2BE2)]()
 
-Credit-Survival-Risk is a project aimed at building a credit risk analytic model using the statistical method of Survival Analysis. Survival analysis is a popular analytical methodology used to investigate the expected duration of time until an event of interest occurs.
+**Credit-Survival-Risk** is a project aimed at building a credit risk analytic model using the statistical method of Survival Analysis. Survival analysis is a popular analytical methodology used to investigate the expected duration of time until an event of interest occurs.
 
 ## Overview
 The Credit-Survival-Risk project focuses on analyzing credit risk by leveraging survival analysis techniques. Traditional credit risk assessment methods often rely on static measures that do not consider the timing of default or delinquency. Survival analysis, on the other hand, takes into account the time dimension and enables a more dynamic approach to credit risk evaluation.
