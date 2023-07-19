@@ -1,4 +1,5 @@
 # Credit-Survival-Risk
+Analytic Method: [Survival Analysis](https://scikit-survival.readthedocs.io/en/stable/)
 
 Credit-Survival-Risk is a project aimed at building a credit risk analytic model using the statistical method of Survival Analysis. Survival analysis is a popular analytical methodology used to investigate the expected duration of time until an event of interest occurs.
 
@@ -8,12 +9,12 @@ The Credit-Survival-Risk project focuses on analyzing credit risk by leveraging 
 This project aims to develop a robust credit risk model that can predict the likelihood and timing of credit default or delinquency. By utilizing survival analysis techniques, we can incorporate various factors such as borrower characteristics, economic indicators, and other relevant variables to create a comprehensive and accurate risk assessment model.
 
 ## Features
-**- Survival Analysis:** The project employs survival analysis as the primary statistical method to model credit risk.
-**- Dynamic Time-to-Event Modeling:** Dynamic Time-to-Event Modeling: Unlike traditional static credit risk models, the survival analysis approach considers the timing of default or delinquency events.
-**- Incorporation of Relevant Factors:** Incorporation of Relevant Factors: The model incorporates various borrower's payment behavior, and other relevant variables to enhance risk assessment accuracy.
-**- Predictive Modeling:** Predictive Modeling: The credit risk model aims to provide accurate predictions of the likelihood and timing of credit default or delinquency.
-**- Data Exploration and Preprocessing:** Data Exploration and Preprocessing: The project includes comprehensive data exploration and preprocessing steps to ensure data quality and prepare it for analysis.
-**- Model Tracking using MLFlow:** Model Tracking using MLFlow allows for the systematic recording and management of the development, training, and deployment of credit risk models, enabling reproducibility, experimentation, and collaboration among data scientists.
+- **Survival Analysis:** The project employs survival analysis as the primary statistical method to model credit risk.
+- **Dynamic Time-to-Event Modeling:** Dynamic Time-to-Event Modeling: Unlike traditional static credit risk models, the survival analysis approach considers the timing of default or delinquency events.
+- **Incorporation of Relevant Factors:** Incorporation of Relevant Factors: The model incorporates various borrower's payment behavior, and other relevant variables to enhance risk assessment accuracy.
+- **Predictive Modeling:** Predictive Modeling: The credit risk model aims to provide accurate predictions of the likelihood and timing of credit default or delinquency.
+- **Data Exploration and Preprocessing:** Data Exploration and Preprocessing: The project includes comprehensive data exploration and preprocessing steps to ensure data quality and prepare it for analysis.
+- **Model Tracking using MLFlow:** Model Tracking using MLFlow allows for the systematic recording and management of the development, training, and deployment of credit risk models, enabling reproducibility, experimentation, and collaboration among data scientists.
 
 ## Installation
 
