@@ -18,6 +18,10 @@ This project aims to develop a robust credit risk model that can predict the lik
 - **Data Exploration and Preprocessing:** Data Exploration and Preprocessing: The project includes comprehensive data exploration and preprocessing steps to ensure data quality and prepare it for analysis.
 - **Model Tracking using MLFlow:** Model Tracking using MLFlow allows for the systematic recording and management of the development, training, and deployment of credit risk models, enabling reproducibility, experimentation, and collaboration among data scientists.
 
+## MLFlow
+![MLFlow Result](https://github.com/yewleongtoh/Credit-Survival-Risk/blob/main/img/mlflow%20interface.png)
+![MLFlow Result](https://github.com/yewleongtoh/Credit-Survival-Risk/blob/main/img/mlflow%20model.png)
+
 ## Installation
 
 To run the Credit-Survival-Risk project, follow these steps:
